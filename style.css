@@ -1,0 +1,37 @@
+h1
+{
+    color: red;
+
+}
+
+/**{
+    border: solid;
+}
+*/
+
+.header
+{
+    background-color: aquamarine;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.header2
+{
+    background-color: rgb(85, 131, 216);
+}
+
+.grid
+{
+    background-color: darkkhaki;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.grid2
+{
+    background-color: blue;
+}
